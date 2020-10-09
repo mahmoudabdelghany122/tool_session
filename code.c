@@ -1,7 +1,7 @@
 /*this is c file*/
 int main (void)
 {
-int z=5;
-int y = z-3;
+int z=10;
+int y = z-5;
 return 0;
 }
